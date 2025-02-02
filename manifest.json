@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "IM-Horaires-Weekly",
+    "description": "Extension pour visualiser les horaires en Ingénierie des Médias de M. Chabloz",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup/popup.html",
+      "default_icon": "images/favicon-512x512.png"
+    }
+  }
